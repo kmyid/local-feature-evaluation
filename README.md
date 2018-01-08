@@ -129,5 +129,5 @@ in a code or text editor.
 - *TFeat*: V.Balntas, E.Riba, D.Ponsa, and K.Mikolajczyk.
   Learning local feature descriptors with triplets and shallow convolutional
   neural networks. BMVC, 2016.
-- *LIFT*: M. Kwang, E. Trulls, V. Lepetit, and P. Fua.
+- *LIFT*: Yi. Kwang, E. Trulls, V. Lepetit, and P. Fua.
   LIFT: Learned Invariant Feature Transform. ECCV, 2016.
